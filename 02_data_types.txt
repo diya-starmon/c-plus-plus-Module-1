@@ -1,0 +1,8 @@
+1. Which data type would you use to store a student’s roll number?
+2. Which data type would you use to store a student’s CGPA?
+3. Which data type would you use to store whether a student has passed or failed?
+
+ANS: 1.int (integer)
+     2.double or float
+     3.bool (boolean = pass/fail)
+     
