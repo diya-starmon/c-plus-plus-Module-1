@@ -1,7 +1,7 @@
 # C++ Module 1 Practice Questions
 
 **Student Name:** Diya Starmon  
-**Course:** BCA Semester 1  
+**Course:** BCA Semester 1   
 **Roll no:26JSOFT102
 **Department:** School of Future Technology, Jain University  
 **Subject:** Programming Foundations in C++  
