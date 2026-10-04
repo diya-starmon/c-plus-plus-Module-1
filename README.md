@@ -32,5 +32,7 @@ This repository contains solutions and code implementations for the **C++ Module
 - `05_operators.cpp` - Operator practice & predictions for 5 
 - `06_expressions.cpp` - Expression evaluation for Section 6
 - `07_control_structures.cpp` - Conditional & loop logic for 7 
+- `08_looplab.cpp` -  loop logic for 8
+
 
  
