@@ -33,6 +33,7 @@ This repository contains solutions and code implementations for the **C++ Module
 - `06_expressions.cpp` - Expression evaluation for Section 6
 - `07_control_structures.cpp` - Conditional & loop logic for 7 
 - `08_looplab.cpp` -  loop logic for 8
+-`09_mini_project_module_1.cpp` - Mini Project - Student Marks Analyzer (Procedural C++, Dynamic Memory, Arrays & Functions)
 
 
  
