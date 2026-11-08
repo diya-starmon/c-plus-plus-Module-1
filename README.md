@@ -21,6 +21,8 @@ This repository contains solutions and code implementations for the **C++ Module
 - Section 5: Operators
 - Section 6: Expressions
 - Section 7: Control Structures
+- Section 8: Loop lab ppt questions
+- Section 9: Mini project module 1
 
 ---
 
