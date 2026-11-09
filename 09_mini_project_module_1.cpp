@@ -52,7 +52,7 @@ int findLowest(int marks[], int n) {
 int countPassed(int marks[], int n) {
     int passed = 0;
     for (int i = 0; i < n; i++) {
-        if (marks[i] >= 40) {
+        if (marks[i] >= 80) {
             passed++;
         }
     }
@@ -87,7 +87,7 @@ int main() {
         do {
             cout << "Enter number of students (1 - 100): ";
             cin >> n;
-            if (n < 1 || n > 100) {
+         if (n < 1 || n > 100) {
                 cout << "Invalid! Please enter a number between 1 and 100.\n";
             }
         } while (n < 1 || n > 100);
@@ -101,7 +101,6 @@ int main() {
         cout << "\nDo you want to run another analysis? (y/n): ";
         cin >> repeat;
     } while (repeat == 'y' || repeat == 'Y');
-
-    cout << "\nThank you! Program ended.\n";
+cout << "\nThank you! Program ended.\n";
     return 0;
 }
