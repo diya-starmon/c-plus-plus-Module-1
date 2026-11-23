@@ -23,6 +23,8 @@ This repository contains solutions and code implementations for the **C++ Module
 - Section 7: Control Structures
 - Section 8: Loop lab ppt questions
 - Section 9: Mini project module 1
+- Section 10: Mini project module 2
+
 
 ---
 
@@ -36,6 +38,7 @@ This repository contains solutions and code implementations for the **C++ Module
 - `07_control_structures.cpp` - Conditional & loop logic for 7 
 - `08_looplab.cpp` -  loop logic for 8
 -`09_mini_project_module_1.cpp` - Mini Project - Student Marks Analyzer (Procedural C++, Dynamic Memory, Arrays & Functions)
+-`09_mini_project_module_2.cpp` - Mini Project 
 
 
  
